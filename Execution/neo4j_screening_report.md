@@ -6,15 +6,14 @@
 - **Rank 30-60 (RECOMMENDED):** Supporting relationships.
 
 ## New Screened Recommendations
-### ✅ 03_Projects-Active/AG-Workspace/Execution/neo4j_screening_report.md (Score: 110)
-- Contains relevant keywords: relationship, mapping, system, integration, workflow, ontology, graph
-- Located in high-priority directory (Active Projects/Directives)
-- Contains structured data (Table)
-
 ### ✅ 05_Knowledge/OpenClaw/Documentation/OPENCLAW_QUICK_REFERENCE.md (Score: 95)
 - Contains relevant keywords: relationship, system, integration, ontology, graph
 - High connectivity: 22 internal links (Potential Graph Hub)
 - Contains structured data (Table)
+
+### ✅ 03_Projects-Active/AG-Workspace/Execution/neo4j_screening_report.md (Score: 95)
+- Contains relevant keywords: relationship, mapping, system, integration, workflow, ontology, graph
+- Located in high-priority directory (Active Projects/Directives)
 
 ### ✅ 07_Web/MegaMem - GraphRAG MCP for Obsidian.md (Score: 95)
 - Contains relevant keywords: relationship, mapping, system, integration, workflow, ontology, graph
@@ -40,6 +39,16 @@
 ### ✅ 07_Web/MegaMem - Ontology Manager.md (Score: 70)
 - Contains relevant keywords: relationship, mapping, system, integration, ontology, graph
 - Has links: 1 connections
+
+### ✅ 05_Research/Evernote/My Notes-1.2025-2018/Crypto Log.md (Score: 65)
+- Contains relevant keywords: system, graph
+- High connectivity: 6 internal links (Potential Graph Hub)
+- Contains structured data (Table)
+
+### ✅ 05_Research/Evernote/My Notes-1.2025-2018./Crypto Log.md (Score: 65)
+- Contains relevant keywords: system, graph
+- High connectivity: 6 internal links (Potential Graph Hub)
+- Contains structured data (Table)
 
 ### ✅ 03_Projects-Active/AffirmationProject/01_Planning/Project Prompt - AI Affirmation Video Creator.md (Score: 65)
 - Contains relevant keywords: relationship, system, integration
@@ -211,12 +220,4 @@
 ### 💡 09_Resources/Templates/TPL Project.md (Score: 40)
 - Contains relevant keywords: relationship
 - High connectivity: 6 internal links (Potential Graph Hub)
-
-### 💡 09_Resources/Templates/TPL Person.md (Score: 40)
-- Contains relevant keywords: relationship
-- High connectivity: 10 internal links (Potential Graph Hub)
-
-### 💡 07_Web/MegaMem - Sync Manager.md (Score: 40)
-- Contains relevant keywords: integration, workflow, graph
-- Has links: 1 connections
 

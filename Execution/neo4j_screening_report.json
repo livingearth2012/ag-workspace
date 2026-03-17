@@ -1,22 +1,21 @@
 {
     "recommendations": [
         {
-            "file": "03_Projects-Active/AG-Workspace/Execution/neo4j_screening_report.md",
-            "score": 110,
-            "reasons": [
-                "Contains relevant keywords: relationship, mapping, system, integration, workflow, ontology, graph",
-                "Located in high-priority directory (Active Projects/Directives)",
-                "Contains structured data (Table)"
-            ],
-            "status": "APPROVED"
-        },
-        {
             "file": "05_Knowledge/OpenClaw/Documentation/OPENCLAW_QUICK_REFERENCE.md",
             "score": 95,
             "reasons": [
                 "Contains relevant keywords: relationship, system, integration, ontology, graph",
                 "High connectivity: 22 internal links (Potential Graph Hub)",
                 "Contains structured data (Table)"
+            ],
+            "status": "APPROVED"
+        },
+        {
+            "file": "03_Projects-Active/AG-Workspace/Execution/neo4j_screening_report.md",
+            "score": 95,
+            "reasons": [
+                "Contains relevant keywords: relationship, mapping, system, integration, workflow, ontology, graph",
+                "Located in high-priority directory (Active Projects/Directives)"
             ],
             "status": "APPROVED"
         },
@@ -67,6 +66,26 @@
             "reasons": [
                 "Contains relevant keywords: relationship, mapping, system, integration, ontology, graph",
                 "Has links: 1 connections"
+            ],
+            "status": "APPROVED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018/Crypto Log.md",
+            "score": 65,
+            "reasons": [
+                "Contains relevant keywords: system, graph",
+                "High connectivity: 6 internal links (Potential Graph Hub)",
+                "Contains structured data (Table)"
+            ],
+            "status": "APPROVED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018./Crypto Log.md",
+            "score": 65,
+            "reasons": [
+                "Contains relevant keywords: system, graph",
+                "High connectivity: 6 internal links (Potential Graph Hub)",
+                "Contains structured data (Table)"
             ],
             "status": "APPROVED"
         },
@@ -478,6 +497,60 @@
             "score": 35,
             "reasons": [
                 "Contains relevant keywords: system, workflow",
+                "Contains structured data (Table)"
+            ],
+            "status": "RECOMMENDED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018/People and website to investigate.md",
+            "score": 35,
+            "reasons": [
+                "Contains relevant keywords: system, graph",
+                "Contains structured data (Table)"
+            ],
+            "status": "RECOMMENDED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018/Untitled Note.3.md",
+            "score": 35,
+            "reasons": [
+                "Contains relevant keywords: system, ontology",
+                "Contains structured data (Table)"
+            ],
+            "status": "RECOMMENDED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018/Resources logins.md",
+            "score": 35,
+            "reasons": [
+                "Contains relevant keywords: system, graph",
+                "Contains structured data (Table)"
+            ],
+            "status": "RECOMMENDED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018./People and website to investigate.md",
+            "score": 35,
+            "reasons": [
+                "Contains relevant keywords: system, graph",
+                "Contains structured data (Table)"
+            ],
+            "status": "RECOMMENDED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018./Untitled Note.3.md",
+            "score": 35,
+            "reasons": [
+                "Contains relevant keywords: system, ontology",
+                "Contains structured data (Table)"
+            ],
+            "status": "RECOMMENDED"
+        },
+        {
+            "file": "05_Research/Evernote/My Notes-1.2025-2018./Resources logins.md",
+            "score": 35,
+            "reasons": [
+                "Contains relevant keywords: system, graph",
                 "Contains structured data (Table)"
             ],
             "status": "RECOMMENDED"
