@@ -1,0 +1,338 @@
+{
+    "MegaMem-Readme.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.146902"
+    },
+    "01_Identity/Forrist-Personal-Profiles/Forrist-AI-Exec-Team-Architecture.v1.md": {
+        "score": 55,
+        "timestamp": "2026-03-16T19:39:55.149467"
+    },
+    "Axis/Bjorn-Template/Bjorn-Template/MegaMem-Readme.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.149840"
+    },
+    "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Film.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.150547"
+    },
+    "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Event.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.150611"
+    },
+    "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Place.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.150644"
+    },
+    "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Project.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.150729"
+    },
+    "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Person.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.150972"
+    },
+    "05_Knowledge/OpenClaw/OpenClaw API Rate Limit Troubleshooting.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.165838"
+    },
+    "05_Knowledge/OpenClaw/Documentation/OPENCLAW_QUICK_REFERENCE.md": {
+        "score": 95,
+        "timestamp": "2026-03-16T19:39:55.172224"
+    },
+    "05_Knowledge/OpenClaw/Documentation/SENTINEL_SKILLS_REPORT_2026_02_22.md": {
+        "score": 55,
+        "timestamp": "2026-03-16T19:39:55.174359"
+    },
+    "05_Knowledge/Prompts/Velvet-Shark-Workflow-Prompts.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.177536"
+    },
+    "05_Research/Heillman_family_visas_MX-USA.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.180160"
+    },
+    "00_Meta/OC/Config-Backup/OPENCLAW-COWORK-CONTEXT-2026-03-01-v2.docx.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.196397"
+    },
+    "00_Meta/OC/Config-Backup/OPENCLAW-GOVERNANCE.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.197237"
+    },
+    "00_Meta/OC/Config-Backup/OPENCLAW-SLACK-REFERENCE.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.201862"
+    },
+    "00_Meta/OC/Config-Backup/workspace/LEARNINGS-Ally.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.220906"
+    },
+    "00_Meta/OC/Config-Backup/workspace/ALLY-PROTOCOLS-MANIFESTO.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.221467"
+    },
+    "00_Meta/OC/Config-Backup/workspace/TOOLS.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.222494"
+    },
+    "00_Meta/OC/Config-Backup/workspace/AGENTS.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.224226"
+    },
+    "00_Meta/OC/Config-Backup/workspace/SYSTEM-RESTORE-PROTOCOL.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.224664"
+    },
+    "00_Meta/OC/Config-Backup/workspace/LEARNINGS.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.225123"
+    },
+    "04_Relationships/Entities/People/Casey Jeppesen.md": {
+        "score": 50,
+        "timestamp": "2026-03-16T19:39:55.232720"
+    },
+    "04_Relationships/Entities/Books/The Last Economy (book).md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.232919"
+    },
+    "06_Agent_System/Claude-Desktop/OpenClaw-Project-Knowledge-Summary.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.245628"
+    },
+    "06_Agent_System/Claude-Desktop/SENTINEL_SKILLS_REPORT_2026_02_22.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.247598"
+    },
+    "06_Agent_System/Skills/xurl/SKILL.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.252553"
+    },
+    "06_Agent_System/Skills/gh-issues/SKILL.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.256560"
+    },
+    "06_Agent_System/Skills/skill-creator/SKILL.md": {
+        "score": 50,
+        "timestamp": "2026-03-16T19:39:55.259552"
+    },
+    "06_Agent_System/Skills/healthcheck/SKILL.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.263496"
+    },
+    "06_Agent_System/Skills/session-logs/SKILL.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.270555"
+    },
+    "06_Agent_System/Skills/canvas/SKILL.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.271241"
+    },
+    "03_Projects-Active/MC-Strategic-Options-Brief/TASK-BRIEF.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.273191"
+    },
+    "03_Projects-Active/2018 Subaru Forester Maintenance/01_Planning/2018 Subaru Forester Maintenance.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.273325"
+    },
+    "03_Projects-Active/AffirmationProject/01_Planning/Project Prompt - AI Affirmation Video Creator.md": {
+        "score": 65,
+        "timestamp": "2026-03-16T19:39:55.274280"
+    },
+    "03_Projects-Active/AffirmationProject/01_Planning/Strategic Master Plan - AffirmationProject.md": {
+        "score": 85,
+        "timestamp": "2026-03-16T19:39:55.276685"
+    },
+    "03_Projects-Active/AffirmationProject/02_Development/Active/Day03.02_Progress Summary and Next Steps.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.276843"
+    },
+    "03_Projects-Active/AffirmationProject/02_Development/Active/Day03.01_Database Schema Design.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.276899"
+    },
+    "03_Projects-Active/AffirmationProject/02_Development/Active/Day01.02_Technology Stack Decision.md": {
+        "score": 70,
+        "timestamp": "2026-03-16T19:39:55.276963"
+    },
+    "03_Projects-Active/AffirmationProject/02_Development/Active/Day01.01_Phase 1 Development - Infrastructure and Frontend Foundation.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.277022"
+    },
+    "03_Projects-Active/AffirmationProject/02_Development/Active/Day02.01_Wireframes and User Flow.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.277085"
+    },
+    "03_Projects-Active/March Drive Trip to California/01_Planning/March Drive Trip to California.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.277359"
+    },
+    "03_Projects-Active/Test-project/TASK-BRIEF.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.277665"
+    },
+    "03_Projects-Active/Sentinel-Skill-Clearance-Wave1/REVIEW-scenario-war-room.md": {
+        "score": 55,
+        "timestamp": "2026-03-16T19:39:55.278100"
+    },
+    "03_Projects-Active/Sentinel-Skill-Clearance-Wave1/TASK-BRIEF.md": {
+        "score": 60,
+        "timestamp": "2026-03-16T19:39:55.278511"
+    },
+    "03_Projects-Active/Sentinel-Skill-Clearance-Wave1/REVIEW-strategy-advisor.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.278869"
+    },
+    "03_Projects-Active/Select-and-implement-certain-Prompts-&-Skills-Enhancements/TASK-BRIEF.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.279008"
+    },
+    "03_Projects-Active/AG-Workspace/Execution/neo4j_screening_report.md": {
+        "score": 110,
+        "timestamp": "2026-03-16T19:39:55.280047"
+    },
+    "03_Projects-Active/AG-Workspace/Directives/00-DOE-ARCHITECTURE-AND-CONTEXT.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.342441"
+    },
+    "03_Projects-Active/AG-Workspace/Directives/01-SKILLS-AND-DELEGATION.md": {
+        "score": 55,
+        "timestamp": "2026-03-16T19:39:55.342528"
+    },
+    "03_Projects-Active/AG-Workspace/Resources/ENABLED-APIS-TRACKER.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.342594"
+    },
+    "03_Projects-Active/AG-Workspace/Resources/Antigravity/IDENTITY-ANTIGRAVITY.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.342730"
+    },
+    "03_Projects-Active/AG-Workspace/Resources/Antigravity/PROTOCOL-NEO4J-SCREENING.md": {
+        "score": 55,
+        "timestamp": "2026-03-16T19:39:55.342795"
+    },
+    "03_Projects-Active/AG-Workspace/Resources/Core-Context/ALLY-PROTOCOLS-MANIFESTO.md": {
+        "score": 60,
+        "timestamp": "2026-03-16T19:39:55.343460"
+    },
+    "03_Projects-Active/AG-Workspace/Resources/Core-Context/HEARTBEAT.md": {
+        "score": 50,
+        "timestamp": "2026-03-16T19:39:55.343568"
+    },
+    "03_Projects-Active/AG-Workspace/Resources/Core-Context/SOUL.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.343640"
+    },
+    "03_Projects-Active/AG-Workspace/Resources/Core-Context/IDENTITY.md": {
+        "score": 55,
+        "timestamp": "2026-03-16T19:39:55.344065"
+    },
+    "09_Ally-Memory/LEARNINGS-Ally.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.344893"
+    },
+    "03_Projects/Claude.md": {
+        "score": 65,
+        "timestamp": "2026-03-16T19:39:55.348024"
+    },
+    "03_Projects/Mission Control Dev/Mission Control Dev.md": {
+        "score": 50,
+        "timestamp": "2026-03-16T19:39:55.349153"
+    },
+    "03_Projects/Mission Control Dev/03_Resources/KPI-Baseline.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.349373"
+    },
+    "03_Projects/Mission Control Dev/03_Resources/Phase_7_Implementation_Plan.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.349428"
+    },
+    "03_Projects/Mission Control Dev/03_Resources/Omitted-Files.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.351098"
+    },
+    "03_Projects/Mission Control Dev/01_Planning/MC_FIX-LIST.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.351491"
+    },
+    "03_Projects/OpenClaw Reference Manual/OpenClaw-Dashboard-Reference-Manual-Project.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.351858"
+    },
+    "03_Projects/ParkingLot - Future Consideration/AgentMail_Install_Setup.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.352412"
+    },
+    "07_Execution/Knowledge-base/LEARNINGS-Ally.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.354417"
+    },
+    "10_Claude_CoWork/OPENCLAW-COWORK-CONTEXT.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.357531"
+    },
+    "09_Resources/MegaMem/Commands for MM Content.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.359331"
+    },
+    "09_Resources/Templates/TPL Claude.md": {
+        "score": 65,
+        "timestamp": "2026-03-16T19:39:55.360362"
+    },
+    "09_Resources/Templates/TPL Film.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.360615"
+    },
+    "09_Resources/Templates/TPL Person-LI.md": {
+        "score": 35,
+        "timestamp": "2026-03-16T19:39:55.360865"
+    },
+    "09_Resources/Templates/TPL Event.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.360960"
+    },
+    "09_Resources/Templates/TPL Place.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.361018"
+    },
+    "09_Resources/Templates/TPL Project.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.361110"
+    },
+    "09_Resources/Templates/TPL Person.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.361374"
+    },
+    "00_Staging-Forrist/OC-Memory-Architecture-Guide-incomplete-draft.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.363475"
+    },
+    "00_Staging-Forrist/OC-Dashboard-Vision.md": {
+        "score": 45,
+        "timestamp": "2026-03-16T19:39:55.364499"
+    },
+    "07_Web/MegaMem - GraphRAG MCP for Obsidian.md": {
+        "score": 95,
+        "timestamp": "2026-03-16T19:39:55.365203"
+    },
+    "07_Web/MegaMem - Ontology Manager.md": {
+        "score": 70,
+        "timestamp": "2026-03-16T19:39:55.366420"
+    },
+    "07_Web/MegaMem - MCP Commands.md": {
+        "score": 75,
+        "timestamp": "2026-03-16T19:39:55.367460"
+    },
+    "07_Web/MegaMem - Plugin Settings.md": {
+        "score": 50,
+        "timestamp": "2026-03-16T19:39:55.369032"
+    },
+    "07_Web/MegaMem - Sync Manager.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.369497"
+    },
+    "07_Web/MegaMem - Quick Start.md": {
+        "score": 40,
+        "timestamp": "2026-03-16T19:39:55.369725"
+    }
+}
