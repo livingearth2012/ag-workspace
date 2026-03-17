@@ -1,0 +1,13 @@
+{
+  "name": "ally-bridge",
+  "version": "1.0.0",
+  "description": "24/7 Ally Bridge for AG-Workspace",
+  "main": "ally_bridge.js",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@slack/socket-mode": "^2.0.2",
+    "@slack/web-api": "^7.8.0",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}

@@ -1,0 +1,8 @@
+.env
+Execution/.env
+node_modules/
+__pycache__/
+*.pyc
+.tmp/
+.vscode/
+.DS_Store
