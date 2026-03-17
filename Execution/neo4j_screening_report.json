@@ -1,509 +1,129 @@
 [
     {
-        "file": "99_Archives/Linkedin 2025 data/02_Development/Active/Day01.01_AI Services Prospecting - Vault Structure & Pilot Segment.md",
-        "score": 85,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "High connectivity: 9 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/02_Development/Active/Day02.01_EARN_Partnership_Contact_Notes_Created.md",
-        "score": 70,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "High connectivity: 11 internal links (Potential Graph Hub)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/02_Development/Active/Day01.01_Obsidian Vault Structure - AI Services Pilot (50 Contacts).md",
-        "score": 70,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "High connectivity: 8 internal links (Potential Graph Hub)"
-        ],
-        "status": "APPROVED"
-    },
-    {
         "file": "05_Knowledge/OpenClaw/Documentation/OPENCLAW_QUICK_REFERENCE.md",
-        "score": 65,
+        "score": 95,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: relationship, system, integration, ontology, graph",
             "High connectivity: 22 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/LI Data Nov 2025/Requests_Response_Summary.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "Has links: 1 connections",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Contacts/A_Priority/Joshua_Ngoma.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 16 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Contacts/A_Priority/Hemesh_Nandwani.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 9 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Contacts/A_Priority/Shannon_Dobbs.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 7 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Contacts/A_Priority/Dr_Hughes_Pierre.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 9 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Contacts/A_Priority/Dana_Kippel.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 7 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Contacts/A_Priority/James_A_Morin.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 9 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Contacts/A_Priority/Danial_Hadizadeh.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 11 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/05_Knowledge/OpenClaw/Documentation/OPENCLAW_QUICK_REFERENCE.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 22 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "APPROVED"
-    },
-    {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/07_Web/MegaMem - GraphRAG MCP for Obsidian.md",
-        "score": 65,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "Has links: 1 connections",
             "Contains structured data (Table)"
         ],
         "status": "APPROVED"
     },
     {
         "file": "07_Web/MegaMem - GraphRAG MCP for Obsidian.md",
-        "score": 65,
+        "score": 95,
         "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
+            "Contains relevant keywords: relationship, mapping, system, integration, workflow, ontology, graph",
             "Has links: 1 connections",
             "Contains structured data (Table)"
         ],
         "status": "APPROVED"
     },
     {
-        "file": "03_Projects-Active/AG-Workspace/Resources/Core-Context/ALLY-PROTOCOLS-MANIFESTO.md",
-        "score": 60,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Located in high-priority directory (Active Projects/Directives)",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/Sync Contact from Outlook Hubspot Linkedin/contact_organization_project.md",
-        "score": 55,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/Mission-Control-Reference.v3_2026-03-15.md",
-        "score": 55,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects-Active/AffirmationProject/01_Planning/Project Prompt - AI Affirmation Video Creator.md",
-        "score": 55,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 1 connections",
-            "Located in high-priority directory (Active Projects/Directives)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
         "file": "03_Projects-Active/AffirmationProject/01_Planning/Strategic Master Plan - AffirmationProject.md",
-        "score": 55,
+        "score": 85,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: relationship, system, integration, workflow, graph",
             "Has links: 2 connections",
             "Located in high-priority directory (Active Projects/Directives)"
         ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day03.01_Database Schema Design.md",
-        "score": 55,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 4 connections",
-            "Located in high-priority directory (Active Projects/Directives)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day02.01_Wireframes and User Flow.md",
-        "score": 55,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 3 connections",
-            "Located in high-priority directory (Active Projects/Directives)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Film.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Event.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Place.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Project.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Person.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 10 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Planning/Using Linkedin data 2025.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/07_Web/MegaMem - Ontology Manager.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "Has links: 1 connections"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "04_Relationships/Entities/People/Casey Jeppesen.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day01.02_Technology Stack Decision.md",
-        "score": 50,
-        "reasons": [
-            "Has links: 3 connections",
-            "Located in high-priority directory (Active Projects/Directives)",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects/Mission Control Dev/03_Resources/KPI-Baseline.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects/Mission Control Dev/03_Resources/Phase_7_Implementation_Plan.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "09_Resources/Templates/TPL Film.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "09_Resources/Templates/TPL Event.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "09_Resources/Templates/TPL Place.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "09_Resources/Templates/TPL Project.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 6 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "09_Resources/Templates/TPL Person.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "High connectivity: 10 internal links (Potential Graph Hub)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "07_Web/MegaMem - Ontology Manager.md",
-        "score": 50,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping",
-            "Has links: 1 connections"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "05_Research/Evernote/My Notes-1.2025-2018/Crypto Log.md",
-        "score": 45,
-        "reasons": [
-            "High connectivity: 6 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "05_Research/Evernote/My Notes-1.2025-2018./Crypto Log.md",
-        "score": 45,
-        "reasons": [
-            "High connectivity: 6 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/01_Planning/EXAMPLE_Contact_Note_Sarah_Johnson.md",
-        "score": 45,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 3 connections",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/Linkedin 2025 data/02_Companies/JV_Partner_Candidates/EARN_Enterprising_Africa_Regional_Network.md",
-        "score": 45,
-        "reasons": [
-            "High connectivity: 16 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/07_Web/MegaMem - MCP Commands.md",
-        "score": 45,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 1 connections",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "99_Archives/Migrate from MS to Google/02_Development/Active/Day01.04_Revised Migration Strategy - Existing Google Workspace.md",
-        "score": 45,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 3 connections",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects-Active/Sentinel-Skill-Clearance-Wave1/REVIEW-scenario-war-room.md",
-        "score": 45,
-        "reasons": [
-            "Contains relevant tags/keywords: mapping",
-            "Located in high-priority directory (Active Projects/Directives)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects-Active/AG-Workspace/Directives/01-SKILLS-AND-DELEGATION.md",
-        "score": 45,
-        "reasons": [
-            "Contains relevant tags/keywords: mapping",
-            "Located in high-priority directory (Active Projects/Directives)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "03_Projects/Claude.md",
-        "score": 45,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 2 connections",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "09_Resources/Templates/TPL Claude.md",
-        "score": 45,
-        "reasons": [
-            "High connectivity: 15 internal links (Potential Graph Hub)",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
-    },
-    {
-        "file": "09_Resources/Templates/TPL Person-LI.md",
-        "score": 45,
-        "reasons": [
-            "Contains relevant tags/keywords: relationship",
-            "Has links: 4 connections",
-            "Contains structured data (Table)"
-        ],
-        "status": "RECOMMENDED"
+        "status": "APPROVED"
     },
     {
         "file": "07_Web/MegaMem - MCP Commands.md",
-        "score": 45,
+        "score": 75,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: relationship, system, integration, workflow, graph",
             "Has links: 1 connections",
             "Contains structured data (Table)"
         ],
-        "status": "RECOMMENDED"
+        "status": "APPROVED"
     },
     {
-        "file": "99_Archives/ACA AIAgentTech LP 1/Visual Guidance - Image Recommendations by Sector.md",
-        "score": 40,
+        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day01.02_Technology Stack Decision.md",
+        "score": 70,
         "reasons": [
-            "Contains relevant tags/keywords: relationship, mapping"
+            "Contains relevant keywords: system, integration",
+            "Has links: 3 connections",
+            "Located in high-priority directory (Active Projects/Directives)",
+            "Contains structured data (Table)"
         ],
-        "status": "RECOMMENDED"
+        "status": "APPROVED"
+    },
+    {
+        "file": "07_Web/MegaMem - Ontology Manager.md",
+        "score": 70,
+        "reasons": [
+            "Contains relevant keywords: relationship, mapping, system, integration, ontology, graph",
+            "Has links: 1 connections"
+        ],
+        "status": "APPROVED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018/Crypto Log.md",
+        "score": 65,
+        "reasons": [
+            "Contains relevant keywords: system, graph",
+            "High connectivity: 6 internal links (Potential Graph Hub)",
+            "Contains structured data (Table)"
+        ],
+        "status": "APPROVED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018./Crypto Log.md",
+        "score": 65,
+        "reasons": [
+            "Contains relevant keywords: system, graph",
+            "High connectivity: 6 internal links (Potential Graph Hub)",
+            "Contains structured data (Table)"
+        ],
+        "status": "APPROVED"
+    },
+    {
+        "file": "03_Projects-Active/AffirmationProject/01_Planning/Project Prompt - AI Affirmation Video Creator.md",
+        "score": 65,
+        "reasons": [
+            "Contains relevant keywords: relationship, system, integration",
+            "Has links: 1 connections",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "APPROVED"
+    },
+    {
+        "file": "03_Projects/Claude.md",
+        "score": 65,
+        "reasons": [
+            "Contains relevant keywords: relationship, system, integration, workflow",
+            "Has links: 2 connections",
+            "Contains structured data (Table)"
+        ],
+        "status": "APPROVED"
+    },
+    {
+        "file": "09_Resources/Templates/TPL Claude.md",
+        "score": 65,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "High connectivity: 15 internal links (Potential Graph Hub)",
+            "Contains structured data (Table)"
+        ],
+        "status": "APPROVED"
     },
     {
         "file": "03_Projects-Active/Sentinel-Skill-Clearance-Wave1/TASK-BRIEF.md",
-        "score": 40,
+        "score": 60,
         "reasons": [
+            "Contains relevant keywords: system, graph",
             "Located in high-priority directory (Active Projects/Directives)",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "03_Projects-Active/AG-Workspace/Resources/Core-Context/HEARTBEAT.md",
-        "score": 40,
+        "file": "03_Projects-Active/AG-Workspace/Resources/Core-Context/ALLY-PROTOCOLS-MANIFESTO.md",
+        "score": 60,
         "reasons": [
+            "Contains relevant keywords: relationship, system",
             "Located in high-priority directory (Active Projects/Directives)",
             "Contains structured data (Table)"
         ],
@@ -511,72 +131,461 @@
     },
     {
         "file": "01_Identity/Forrist-Personal-Profiles/Forrist-AI-Exec-Team-Architecture.v1.md",
-        "score": 35,
+        "score": 55,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: relationship, system, workflow, graph",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "99_Archives/ACA AiAgentTech Home page/Phase_7_Streamlined_Implementation_Plan_READY.md",
-        "score": 35,
+        "file": "05_Knowledge/OpenClaw/Documentation/SENTINEL_SKILLS_REPORT_2026_02_22.md",
+        "score": 55,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: system, integration, workflow, graph",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "99_Archives/ACA AiAgentTech Home page/Phase_7_COMPREHENSIVE_UI_UX_CONVERSION_OPTIMIZATION_PLAN.md",
-        "score": 35,
+        "file": "03_Projects-Active/Sentinel-Skill-Clearance-Wave1/REVIEW-scenario-war-room.md",
+        "score": 55,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: mapping, system, integration",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Execution/neo4j_screening_report.md",
+        "score": 55,
+        "reasons": [
+            "Contains relevant keywords: relationship, mapping, graph",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Directives/01-SKILLS-AND-DELEGATION.md",
+        "score": 55,
+        "reasons": [
+            "Contains relevant keywords: mapping, integration, graph",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Resources/Antigravity/PROTOCOL-NEO4J-SCREENING.md",
+        "score": 55,
+        "reasons": [
+            "Contains relevant keywords: relationship, mapping, graph",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Resources/Core-Context/IDENTITY.md",
+        "score": 55,
+        "reasons": [
+            "Contains relevant keywords: system, workflow, graph",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "04_Relationships/Entities/People/Casey Jeppesen.md",
+        "score": 50,
+        "reasons": [
+            "Contains relevant keywords: relationship, system",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "06_Agent_System/Skills/skill-creator/SKILL.md",
+        "score": 50,
+        "reasons": [
+            "Contains relevant keywords: relationship, system, integration, workflow, graph"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Resources/Core-Context/HEARTBEAT.md",
+        "score": 50,
+        "reasons": [
+            "Contains relevant keywords: system",
+            "Located in high-priority directory (Active Projects/Directives)",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "99_Archives/LI Data Nov 2025/Scoring_Analysis_Report.md",
-        "score": 35,
+        "file": "03_Projects/Mission Control Dev/Mission Control Dev.md",
+        "score": 50,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: system, integration",
+            "High connectivity: 17 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "07_Web/MegaMem - Plugin Settings.md",
+        "score": 50,
+        "reasons": [
+            "Contains relevant keywords: mapping, system, integration, graph",
+            "Has links: 1 connections"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Knowledge/OpenClaw/OpenClaw API Rate Limit Troubleshooting.md",
+        "score": 45,
+        "reasons": [
+            "Contains relevant keywords: system, integration, workflow",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/ALLY-PROTOCOLS-MANIFESTO.md",
-        "score": 35,
+        "file": "00_Meta/OC/Config-Backup/workspace/AGENTS.md",
+        "score": 45,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: relationship, system, graph",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/AGENTS.md",
-        "score": 35,
+        "file": "06_Agent_System/Claude-Desktop/SENTINEL_SKILLS_REPORT_2026_02_22.md",
+        "score": 45,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: system, integration, graph",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "99_Archives/OpenClaw-to-AG-Migration/Workspace-Core/01_Identity/Forrist-Personal-Profiles/Forrist-AI-Exec-Team-Architecture.v1.md",
-        "score": 35,
+        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day03.02_Progress Summary and Next Steps.md",
+        "score": 45,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: system",
+            "Has links: 1 connections",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day03.01_Database Schema Design.md",
+        "score": 45,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "Has links: 4 connections",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day02.01_Wireframes and User Flow.md",
+        "score": 45,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "Has links: 3 connections",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Resources/Antigravity/IDENTITY-ANTIGRAVITY.md",
+        "score": 45,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects/Mission Control Dev/01_Planning/MC_FIX-LIST.md",
+        "score": 45,
+        "reasons": [
+            "Contains relevant keywords: integration, workflow, graph",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "99_Archives/ACA AIAgentTech LP 1/Project Prompt.md",
+        "file": "00_Staging-Forrist/OC-Memory-Architecture-Guide-incomplete-draft.md",
+        "score": 45,
+        "reasons": [
+            "Contains relevant keywords: relationship, system, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "00_Staging-Forrist/OC-Dashboard-Vision.md",
+        "score": 45,
+        "reasons": [
+            "Contains relevant keywords: system, integration, workflow",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "MegaMem-Readme.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship, ontology, graph",
+            "Has links: 1 connections"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "Axis/Bjorn-Template/Bjorn-Template/MegaMem-Readme.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship, ontology, graph",
+            "Has links: 1 connections"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Film.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Event.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Place.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Project.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "Axis/Bjorn-Template/Bjorn-Template/06_Resources/Templates/TPL Person.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 10 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Knowledge/Prompts/Velvet-Shark-Workflow-Prompts.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship, system, integration, workflow"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects/Mission Control Dev/03_Resources/KPI-Baseline.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects/Mission Control Dev/03_Resources/Phase_7_Implementation_Plan.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Resources/MegaMem/Commands for MM Content.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship, integration, workflow",
+            "Has links: 4 connections"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Resources/Templates/TPL Film.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Resources/Templates/TPL Event.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Resources/Templates/TPL Place.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Resources/Templates/TPL Project.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 6 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Resources/Templates/TPL Person.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "High connectivity: 10 internal links (Potential Graph Hub)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "07_Web/MegaMem - Sync Manager.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: integration, workflow, graph",
+            "Has links: 1 connections"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "07_Web/MegaMem - Quick Start.md",
+        "score": 40,
+        "reasons": [
+            "Contains relevant keywords: integration, ontology, graph",
+            "Has links: 1 connections"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Research/Heillman_family_visas_MX-USA.md",
         "score": 35,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: system, workflow",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018/People and website to investigate.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018/Untitled Note.3.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, ontology",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018/Resources logins.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018./People and website to investigate.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018./Untitled Note.3.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, ontology",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "05_Research/Evernote/My Notes-1.2025-2018./Resources logins.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "00_Meta/OC/Config-Backup/OPENCLAW-COWORK-CONTEXT-2026-03-01-v2.docx.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "00_Meta/OC/Config-Backup/OPENCLAW-GOVERNANCE.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "00_Meta/OC/Config-Backup/OPENCLAW-SLACK-REFERENCE.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "00_Meta/OC/Config-Backup/workspace/LEARNINGS-Ally.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
@@ -585,16 +594,80 @@
         "file": "00_Meta/OC/Config-Backup/workspace/ALLY-PROTOCOLS-MANIFESTO.md",
         "score": 35,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: relationship, system",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "00_Meta/OC/Config-Backup/workspace/AGENTS.md",
+        "file": "00_Meta/OC/Config-Backup/workspace/TOOLS.md",
         "score": 35,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: system, workflow",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "00_Meta/OC/Config-Backup/workspace/SYSTEM-RESTORE-PROTOCOL.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, workflow",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "00_Meta/OC/Config-Backup/workspace/LEARNINGS.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "04_Relationships/Entities/Books/The Last Economy (book).md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system",
+            "Has links: 3 connections",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "06_Agent_System/Claude-Desktop/OpenClaw-Project-Knowledge-Summary.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "06_Agent_System/Skills/xurl/SKILL.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: workflow, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "06_Agent_System/Skills/gh-issues/SKILL.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "06_Agent_System/Skills/healthcheck/SKILL.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, workflow",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
@@ -603,16 +676,34 @@
         "file": "06_Agent_System/Skills/session-logs/SKILL.md",
         "score": 35,
         "reasons": [
-            "Contains relevant tags/keywords: mapping",
+            "Contains relevant keywords: mapping, system",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "03_Projects-Active/AffirmationProject/02_Development/Active/Day03.02_Progress Summary and Next Steps.md",
+        "file": "06_Agent_System/Skills/canvas/SKILL.md",
         "score": 35,
         "reasons": [
-            "Has links: 1 connections",
+            "Contains relevant keywords: integration, workflow",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/MC-Strategic-Options-Brief/TASK-BRIEF.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/2018 Subaru Forester Maintenance/01_Planning/2018 Subaru Forester Maintenance.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system",
             "Located in high-priority directory (Active Projects/Directives)"
         ],
         "status": "RECOMMENDED"
@@ -627,19 +718,128 @@
         "status": "RECOMMENDED"
     },
     {
-        "file": "09_Resources/LLM/Prompts/Neo4j_queries.md",
+        "file": "03_Projects-Active/March Drive Trip to California/01_Planning/March Drive Trip to California.md",
         "score": 35,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: integration",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/Test-project/TASK-BRIEF.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: graph",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/Sentinel-Skill-Clearance-Wave1/REVIEW-strategy-advisor.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/Select-and-implement-certain-Prompts-&-Skills-Enhancements/TASK-BRIEF.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: graph",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Directives/00-DOE-ARCHITECTURE-AND-CONTEXT.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Resources/ENABLED-APIS-TRACKER.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects-Active/AG-Workspace/Resources/Core-Context/SOUL.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system",
+            "Located in high-priority directory (Active Projects/Directives)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Ally-Memory/LEARNINGS-Ally.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"
     },
     {
-        "file": "00_Staging-Forrist/OC-Memory-Architecture-Guide-incomplete-draft.md",
+        "file": "03_Projects/Mission Control Dev/03_Resources/Omitted-Files.md",
         "score": 35,
         "reasons": [
-            "Contains relevant tags/keywords: relationship",
+            "Contains relevant keywords: system, graph",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects/OpenClaw Reference Manual/OpenClaw-Dashboard-Reference-Manual-Project.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "03_Projects/ParkingLot - Future Consideration/AgentMail_Install_Setup.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, workflow",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "07_Execution/Knowledge-base/LEARNINGS-Ally.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "10_Claude_CoWork/OPENCLAW-COWORK-CONTEXT.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: system, integration",
+            "Contains structured data (Table)"
+        ],
+        "status": "RECOMMENDED"
+    },
+    {
+        "file": "09_Resources/Templates/TPL Person-LI.md",
+        "score": 35,
+        "reasons": [
+            "Contains relevant keywords: relationship",
+            "Has links: 4 connections",
             "Contains structured data (Table)"
         ],
         "status": "RECOMMENDED"

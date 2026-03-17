@@ -6,7 +6,7 @@ from datetime import datetime
 # CONFIGURATION
 VAULT_ROOT = "/home/openclaw/ObsidianVaults/OC_MM"
 SCREENER_LOG = "/home/openclaw/ObsidianVaults/OC_MM/03_Projects-Active/AG-Workspace/Execution/neo4j_screening_report.json"
-RELEVANCE_KEYWORDS = ["#knowledge", "#concept", "#entity", "#protocol", "#architecture", "relationship", "mapping"]
+RELEVANCE_KEYWORDS = ["#knowledge", "#concept", "#entity", "#protocol", "#architecture", "relationship", "mapping", "system", "integration", "workflow", "ontology", "graph"]
 
 class KnowledgeScreener:
     def __init__(self, vault_path):
@@ -19,15 +19,19 @@ class KnowledgeScreener:
             content = f.read()
         
         rel_path = os.path.relpath(file_path, self.vault_path)
+        
+        # SKIP archives to keep the focus on active/core knowledge
+        if "99_Archives" in rel_path:
+            return None
+
         score = 0
         reasons = []
 
-        # Criterion 1: Frontmatter Tags
-        if "tags:" in content or "#" in content:
-            found_tags = [kw for kw in RELEVANCE_KEYWORDS if kw in content.lower()]
-            if found_tags:
-                score += (20 * len(found_tags))
-                reasons.append(f"Contains relevant tags/keywords: {', '.join(found_tags)}")
+        # Criterion 1: Frontmatter Tags & Keywords
+        found_tags = [kw for kw in RELEVANCE_KEYWORDS if kw in content.lower()]
+        if found_tags:
+            score += (10 * len(found_tags))
+            reasons.append(f"Contains relevant keywords: {', '.join(found_tags)}")
 
         # Criterion 2: Connectivity (Internal Links)
         links = re.findall(r'\[\[(.*?)\]\]', content)
