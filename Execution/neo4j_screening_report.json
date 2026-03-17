@@ -70,26 +70,6 @@
             "status": "APPROVED"
         },
         {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018/Crypto Log.md",
-            "score": 65,
-            "reasons": [
-                "Contains relevant keywords: system, graph",
-                "High connectivity: 6 internal links (Potential Graph Hub)",
-                "Contains structured data (Table)"
-            ],
-            "status": "APPROVED"
-        },
-        {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018./Crypto Log.md",
-            "score": 65,
-            "reasons": [
-                "Contains relevant keywords: system, graph",
-                "High connectivity: 6 internal links (Potential Graph Hub)",
-                "Contains structured data (Table)"
-            ],
-            "status": "APPROVED"
-        },
-        {
             "file": "03_Projects-Active/AffirmationProject/01_Planning/Project Prompt - AI Affirmation Video Creator.md",
             "score": 65,
             "reasons": [
@@ -502,60 +482,6 @@
             "status": "RECOMMENDED"
         },
         {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018/People and website to investigate.md",
-            "score": 35,
-            "reasons": [
-                "Contains relevant keywords: system, graph",
-                "Contains structured data (Table)"
-            ],
-            "status": "RECOMMENDED"
-        },
-        {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018/Untitled Note.3.md",
-            "score": 35,
-            "reasons": [
-                "Contains relevant keywords: system, ontology",
-                "Contains structured data (Table)"
-            ],
-            "status": "RECOMMENDED"
-        },
-        {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018/Resources logins.md",
-            "score": 35,
-            "reasons": [
-                "Contains relevant keywords: system, graph",
-                "Contains structured data (Table)"
-            ],
-            "status": "RECOMMENDED"
-        },
-        {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018./People and website to investigate.md",
-            "score": 35,
-            "reasons": [
-                "Contains relevant keywords: system, graph",
-                "Contains structured data (Table)"
-            ],
-            "status": "RECOMMENDED"
-        },
-        {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018./Untitled Note.3.md",
-            "score": 35,
-            "reasons": [
-                "Contains relevant keywords: system, ontology",
-                "Contains structured data (Table)"
-            ],
-            "status": "RECOMMENDED"
-        },
-        {
-            "file": "05_Research/Evernote/My Notes-1.2025-2018./Resources logins.md",
-            "score": 35,
-            "reasons": [
-                "Contains relevant keywords: system, graph",
-                "Contains structured data (Table)"
-            ],
-            "status": "RECOMMENDED"
-        },
-        {
             "file": "00_Meta/OC/Config-Backup/OPENCLAW-COWORK-CONTEXT-2026-03-01-v2.docx.md",
             "score": 35,
             "reasons": [
@@ -747,6 +673,15 @@
         },
         {
             "file": "03_Projects-Active/Select-and-implement-certain-Prompts-&-Skills-Enhancements/TASK-BRIEF.md",
+            "score": 35,
+            "reasons": [
+                "Contains relevant keywords: graph",
+                "Located in high-priority directory (Active Projects/Directives)"
+            ],
+            "status": "RECOMMENDED"
+        },
+        {
+            "file": "03_Projects-Active/AG-Workspace/Execution/Orchestration/SYNC-KNOWLEDGE-BASE.md",
             "score": 35,
             "reasons": [
                 "Contains relevant keywords: graph",
